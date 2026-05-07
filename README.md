@@ -2,20 +2,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hey%20There%20👋&fontSize=40&fontColor=ffffff" />
 </p>
-
 ---
-
 # 👤 About Me
 
-- 🇰🇬 I'm from Kyrgyzstan   
+- Azima from Kyrgyzstan   
 - 💻 Frontend Developer (React)    
-
 ---
 
 # 🛠 Language and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,java,kotlin,react,js,html,css,git,github,vscode" />
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,flutter,dart" />
 </p>
 
 ---
@@ -23,7 +21,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
@@ -31,7 +28,6 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 # 📫 Contact Me
