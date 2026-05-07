@@ -7,11 +7,8 @@
 
 ---
 
-## 🛠 Language and Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,flutter,dart" />
-</p>
+## 📊 My Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
