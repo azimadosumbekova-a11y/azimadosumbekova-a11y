@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hey%20There%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 ---
-# 👤 About Me
 
 - Azima from Kyrgyzstan   
 - 💻 Frontend Developer (React)    
