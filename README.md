@@ -8,7 +8,7 @@
 - 💻 Frontend Developer (React)    
 ---
 
-# 🛠 Language and Tools
+#  Language and Tools
 
 
 <p>
@@ -22,7 +22,7 @@
 </p>
 ---
 
-# 🐍 Contribution Snake
+# 
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
