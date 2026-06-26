@@ -19,14 +19,12 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/azimadosumbekova-a11y/azimadosumbekova-a11y/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
-# 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azimadosumbekova-a11y&theme=tokyo-night" />
 </p>
-ч
 # 📫 Contact Me
 
 - Telegram: https://@Azimkaaa6
